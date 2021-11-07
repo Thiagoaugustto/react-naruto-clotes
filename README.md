@@ -16,7 +16,7 @@ $ npm start
 ```
 
 # Server
-Simple app to generate random Naruto quotes using Python and Flask [Server](http://localhost:3000):
+Simple app to generate random Naruto quotes using Python and Flask: [Server](http://localhost:3000)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

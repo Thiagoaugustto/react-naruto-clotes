@@ -10,4 +10,19 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-family: 'New Tegomin', serif;
   }
+
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f159; 
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #88888880;
+  }
 `;

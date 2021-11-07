@@ -30,6 +30,8 @@ const Quote = styled.p`
   text-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px;
   flex: 1;
   margin: 0;
+  max-height: 300px;
+  overflow-y: auto;
 `;
 
 const Speaker = styled(Quote)`
